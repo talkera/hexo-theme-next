@@ -63,5 +63,5 @@
 #}</div>
 {% endif %}
 
-<script src='http://7bv9q3.com1.z0.glb.clouddn.com//vendor/mermaid/mermaid.7.1.2.min.js'></script>
+<script src='https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js'></script>
 <script>mermaid.initialize({startOnLoad:true});</script>
